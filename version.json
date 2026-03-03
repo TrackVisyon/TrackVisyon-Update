@@ -1,7 +1,7 @@
 {
   "launcher_v": "5.0",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/5.0/TrackLauncher_v5.0.exe",
-  "tracker_v": "5.0",
-  "tracker_url": "https://raw.githubusercontent.com/TrackVisyon/TrackVisyon-Update/main/trackvisyon.bin",
+  "tracker_v": "5.1",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v5.1/TrackVisyon_v5.1.ino.bin",
   "changelog": "Versione di lancio ufficiale. Introdotto sistema OTA."
 }
