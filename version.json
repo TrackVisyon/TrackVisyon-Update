@@ -1,7 +1,7 @@
 {
-  "launcher_v": "5.1",
+  "launcher_v": "5.2",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/L_v5.1/TrackLauncher_v5.1.exe",
-  "tracker_v": "5.1",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v5.1/TrackVisyon_v5.1.ino.bin",
-  "changelog": "Versione di lancio ufficiale. Introdotto sistema OTA."
+  "tracker_v": "5.2",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/L_v5.2/TrackVisyonLauncher_v5.2exe",
+  "changelog": "Novità della V.5.2:\n\nVISYON CONTROL CENTER:\n- Guida Utente aggiornata e ottimizzata per una migliore leggibilità.\n\nTRACK VISYON (FIRMWARE):\n- Nuovo Boot Screen con logo ad alta risoluzione.\n- Lettura della batteria Li-Po ricalibrata per una precisione assoluta e rilevamento istantaneo del cavo USB."
 }
