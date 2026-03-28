@@ -1,7 +1,7 @@
 {
   "launcher_v": "5.3",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/L_v5.3/Visyon-control-center_v5.3.exe",
-  "tracker_v": "5.4",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v.5.4/Trackvisyon_v_5.4.ino.bin",
-  "changelog": "Novità della V.5.4:\n TRACK VISYON (FIRMWARE):\n- Nuovo Boot Screen con logo ad alta risoluzione.\n- Lettura della batteria Li-Po ricalibrata per una precisione assoluta e rilevamento istantaneo del cavo USB."
+  "tracker_v": "5.5",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/5.5/Trackvisyon_v_5.5.bin",
+  "changelog": "Novità della V.5.5: Regolazione Auto-Center."
 }
