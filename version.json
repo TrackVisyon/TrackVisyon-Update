@@ -1,7 +1,7 @@
 {
   "launcher_v": "5.3",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/L_v5.3/Visyon-control-center_v5.3.exe",
-  "tracker_v": "5.7",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v5.7/Trackvisyon_v_5_7.ino.bin",
-  "changelog": "Novità della V.5.7:Nuova Gestione Batteria, Nuova Struttura Auto-Center."
+  "tracker_v": "5.8",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/5.8/Trackvisyon_v_5_8.ino.bin",
+  "changelog": "Novità della V.5.8:Nuova Gestione Batteria, Nuova Struttura Auto-Center."
 }
