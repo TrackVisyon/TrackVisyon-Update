@@ -1,7 +1,7 @@
 {
   "launcher_v": "6.1",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.1/TrackVisyon_6_1.exe",
-  "tracker_v": "6.0",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/T6.0/Trackvisyon_v_6_0.ino.bin",
-  "changelog": "Novità della V.6.1:Nuova Gestione Batteria, Nuova Struttura Auto-Center."
+  "tracker_v": "7.0",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.0/Trackvisyon_v_7_0.ino.bin",
+  "changelog": "Novità della V.7.0:Nuova Gestione Batteria, Nuova Struttura Auto-Center."
 }
