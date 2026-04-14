@@ -1,6 +1,6 @@
 {
-  "launcher_v": "6.2",
-  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.2/TrackVisyon_Setup.exe",
+  "launcher_v": "6.3",
+  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.3/TrackVisyon_Setup.exe",
   "tracker_v": "7.1",
   "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.1/Trackvisyon_v_7_1.ino.bin",
   "changelog": "Novità della V.7.1:Aggiornamento piattaforma per il nuovo Launcher"
