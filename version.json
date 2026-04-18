@@ -1,7 +1,7 @@
 {
   "launcher_v": "6.6",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.6/TrackVisyon_Setup.exe",
-  "tracker_v": "7.2",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.2/Trackvisyon_v_7_2.ino.bin",
-  "changelog": "Novità della V.7.2:Aggiornamento piattaforma per il nuovo Launcher / Novità launcher 6.5: Fix Avvio Launcher"
+  "tracker_v": "7.3",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.3/Trackvisyon_v_7_3.ino.bin",
+  "changelog": "Novità della V.7.3:Ricalibrazione track con miglioramento importante della stabilità / Novità launcher 6.6: Risolto il problema del mancato avvio con alcuni pc e velocizzate le operazioni base"
 }
