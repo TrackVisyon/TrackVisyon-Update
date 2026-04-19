@@ -1,7 +1,7 @@
 {
   "launcher_v": "6.6",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.6/TrackVisyon_Setup.exe",
-  "tracker_v": "7.2",
+  "tracker_v": "7.4",
   "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.4/Trackvisyon_v_7_4.ino.bin",
   "changelog": "Novità della V.7.4:risolto problema di assi sbagliati su alcuni pc/ Novità launcher 6.6: Risolto il problema del mancato avvio con alcuni pc e velocizzate le operazioni base"
 }
