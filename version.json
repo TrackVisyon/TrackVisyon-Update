@@ -1,7 +1,7 @@
 {
-  "launcher_v": "6.6",
+  "launcher_v": "6.7",
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v6.6/TrackVisyon_Setup.exe",
-  "tracker_v": "7.5",
-  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.5/Trackvisyon_v_7_5.ino.bin",
-  "changelog": "Novità della V.7.5: Migliorata gestione assi. Grazie per la pazienza ed i vostri feedback"
+  "tracker_v": "7.6",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.6/Trackvisyon_v_7_6.ino.bin",
+  "changelog": "Novità del launcher V.7.6 e v.6.7 del trackvisyon: Migliorata gestione assi, migliorato grafico e aggiunta posizione di montaggio laterale.Grazie per la pazienza ed i vostri feedback"
 }
