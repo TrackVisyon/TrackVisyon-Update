@@ -3,5 +3,5 @@
   "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.1/TrackVisyon_Setup.exe",
   "tracker_v": "7.7",
   "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.7/Trackvisyon_v_7_7.ino.bin",
-  "changelog": "**Launcher 7.1** – Migliorata stabilità e precisione degli assi; mappature, inversioni e regolazioni ora applicabili in realtime senza fermare la simulazione."
+  "changelog": "**Launcher 7.1 - TrackVisyon 7.7** – Migliorata stabilità e precisione degli assi; mappature, inversioni e regolazioni ora applicabili in realtime senza fermare la simulazione, aggiornamenti Launcher senza passare dal sito."
 }
