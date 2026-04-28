@@ -1,7 +1,7 @@
 {
-  "launcher_v": "7.4",
-  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.4/TrackVisyon_Setup.exe",
+  "launcher_v": "7.5",
+  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.5/TrackVisyon_Setup.exe",
   "tracker_v": "7.8",
   "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v7.8/Trackvisyon_v_7_8.ino.bin",
-  "changelog": "**Launcher 7.4 - TrackVisyon 7.8** – Migliorata stabilità e precisione degli assi; mappature, inversioni e regolazioni ora applicabili in realtime senza fermare la simulazione, aggiornamenti Launcher senza passare dal sito. **Nuova Calibrazione Montaggio per rendere ancora + precisi i tuoi movimenti.**"
+  "changelog": "**Launcher 7.5 - TrackVisyon 7.9** – Migliorata stabilità e precisione degli assi; mappature, inversioni e regolazioni ora applicabili in realtime senza fermare la simulazione, aggiornamenti Launcher senza passare dal sito. **Nuova Calibrazione Montaggio per rendere ancora + precisi i tuoi movimenti.**"
 }
