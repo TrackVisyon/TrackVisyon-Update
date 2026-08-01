@@ -1,21 +1,21 @@
 {
-  "launcher_v": "7.62",
-  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_Setup_7.6.2.exe",
+  "launcher_v": "7.64",
+  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.4/TrackVision_Setup_7.6.4.exe",
   "tracker_v": "8.0",
   "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0.bin",
-  "changelog": "Novita TrackVision 7.6.2 e Tracker 8.0.0",
+  "changelog": "Novita TrackVision 7.6.4 e Tracker 8.0.0",
   "schema_version": 2,
   "software": {
-    "version": "7.6.2",
+    "version": "7.6.4",
     "channel": "stable",
     "mandatory": false,
     "minimum_supported_version": "7.0.0",
-    "installer_filename": "TrackVision_Setup_7.6.2.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_Setup_7.6.2.exe",
-    "installer_size": 183874750,
-    "installer_sha256": "4cc6e64de6f23d0eb4506506d024e471ad54baf99df390ae289d72d1a06e1937",
+    "installer_filename": "TrackVision_Setup_7.6.4.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.4/TrackVision_Setup_7.6.4.exe",
+    "installer_size": 183877934,
+    "installer_sha256": "7d8715fa12e8fc1923d369f31e89d597ac439b16f547f8fffce5fc750beb60e6",
     "release_date": "2026-08-01",
-    "release_notes_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_7.6.2_CHANGELOG.txt"
+    "release_notes_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.4/TrackVision_7.6.4_CHANGELOG.txt"
   },
   "tracker": {
     "version": "8.0.0",
