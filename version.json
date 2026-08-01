@@ -1,40 +1,40 @@
 {
-    "launcher_v":  "7.61",
-    "launcher_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.1/TrackVision_Setup_7.6.1.exe",
-    "tracker_v":  "8.0",
-    "tracker_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0.bin",
-    "changelog":  "Novita TrackVision 7.6.1 e Tracker 8.0.0",
-    "schema_version":  2,
-    "software":  {
-                     "version":  "7.6.1",
-                     "channel":  "stable",
-                     "mandatory":  false,
-                     "minimum_supported_version":  "7.0.0",
-                     "installer_filename":  "TrackVision_Setup_7.6.1.exe",
-                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.1/TrackVision_Setup_7.6.1.exe",
-                     "installer_size":  180351024,
-                     "installer_sha256":  "59cfc265714fbcb7005bb761c6fe846d818c252cece21806dee5e212d3aa3741",
-                     "release_date":  "2026-07-31",
-                     "release_notes_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.1/TrackVision_7.6.1_CHANGELOG.txt"
-                 },
-    "tracker":  {
-                    "version":  "8.0.0",
-                    "verified":  true,
-                    "hardware":  "ESP32",
-                    "protocol":  {
-                                     "udp_data_port":  4242,
-                                     "udp_service_port":  4243,
-                                     "version_command":  "GET_VER",
-                                     "ota_path":  "/update"
-                                 },
-                    "firmware_filename":  "TrackVision_Tracker_8.0.0.bin",
-                    "firmware_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0.bin",
-                    "firmware_size":  1192656,
-                    "firmware_sha256":  "dbdf71f2fd70e6fecb234f8c5722e4fcfe8585a853e78151f5ddad92a79fb43a",
-                    "minimum_software_version":  "7.6.1",
-                    "release_notes_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0_CHANGELOG.txt",
-                    "hardware_test":  "not_executed",
-                    "downgrade_policy":  "offer_only_if_installed_version_is_lower",
-                    "installed_test_device_version":  "7.9.0"
-                }
+  "launcher_v": "7.62",
+  "launcher_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_Setup_7.6.2.exe",
+  "tracker_v": "8.0",
+  "tracker_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0.bin",
+  "changelog": "Novita TrackVision 7.6.2 e Tracker 8.0.0",
+  "schema_version": 2,
+  "software": {
+    "version": "7.6.2",
+    "channel": "stable",
+    "mandatory": false,
+    "minimum_supported_version": "7.0.0",
+    "installer_filename": "TrackVision_Setup_7.6.2.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_Setup_7.6.2.exe",
+    "installer_size": 183874750,
+    "installer_sha256": "4cc6e64de6f23d0eb4506506d024e471ad54baf99df390ae289d72d1a06e1937",
+    "release_date": "2026-08-01",
+    "release_notes_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/software-v7.6.2/TrackVision_7.6.2_CHANGELOG.txt"
+  },
+  "tracker": {
+    "version": "8.0.0",
+    "verified": true,
+    "hardware": "ESP32",
+    "protocol": {
+      "udp_data_port": 4242,
+      "udp_service_port": 4243,
+      "version_command": "GET_VER",
+      "ota_path": "/update"
+    },
+    "firmware_filename": "TrackVision_Tracker_8.0.0.bin",
+    "firmware_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0.bin",
+    "firmware_size": 1192656,
+    "firmware_sha256": "dbdf71f2fd70e6fecb234f8c5722e4fcfe8585a853e78151f5ddad92a79fb43a",
+    "minimum_software_version": "7.6.1",
+    "release_notes_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/tracker-v8.0.0/TrackVision_Tracker_8.0.0_CHANGELOG.txt",
+    "hardware_test": "not_executed",
+    "downgrade_policy": "offer_only_if_installed_version_is_lower",
+    "installed_test_device_version": "7.9.0"
+  }
 }
