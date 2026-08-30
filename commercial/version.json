@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "product": "trackvisyon",
+  "software": {
+    "version": "1.0.0",
+    "channel": "commercial",
+    "mandatory": false,
+    "minimum_supported_version": "1.0.0",
+    "installer_filename": "TrackVisyon_Setup_1.0.0.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.0.0/TrackVisyon_Setup_1.0.0.exe",
+    "installer_size": 175309306,
+    "installer_sha256": "8c58ffb3dc89e3823629535658e8d8e42aace01b8424053eaac784d9521de3c5",
+    "release_date": "2026-08-30"
+  },
+  "changelog": "TrackVisyon Commercial 1.0.0"
+}
