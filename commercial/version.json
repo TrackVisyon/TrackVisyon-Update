@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.0.0.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.0.0/TrackVisyon_Setup_1.0.0.exe",
-    "installer_size": 175309306,
-    "installer_sha256": "8c58ffb3dc89e3823629535658e8d8e42aace01b8424053eaac784d9521de3c5",
-    "release_date": "2026-08-30"
+    "installer_filename": "TrackVisyon_Setup_1.1.0.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.0/TrackVisyon_Setup_1.1.0.exe",
+    "installer_size": 168669109,
+    "installer_sha256": "29ea335d725c8e37f8f6f01d97a04bd8da8f491bee52046b52f96983fc266d3e",
+    "release_date": "2026-09-07"
   },
-  "changelog": "TrackVisyon Commercial 1.0.0"
+  "changelog": "Nuova versione TrackVisyon 1.1.0: maggiore stabilità del tracking webcam e migliore gestione del Pitch."
 }
