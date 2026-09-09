@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.1.0.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.0/TrackVisyon_Setup_1.1.0.exe",
-    "installer_size": 168669109,
-    "installer_sha256": "29ea335d725c8e37f8f6f01d97a04bd8da8f491bee52046b52f96983fc266d3e",
-    "release_date": "2026-09-07"
+    "installer_filename": "TrackVisyon_Setup_1.1.1.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.1/TrackVisyon_Setup_1.1.1.exe",
+    "installer_size": 168666674,
+    "installer_sha256": "7a84b7021e41164a76da22601f77b61dd66befad6318b21524520582feb59fe6",
+    "release_date": "2026-09-09"
   },
-  "changelog": "Nuova versione TrackVisyon 1.1.0: maggiore stabilità del tracking webcam e migliore gestione del Pitch."
+  "changelog": "TrackVisyon 1.1.1: temporizzazione ad alta precisione anche nello stabilizzatore webcam, per una maggiore regolarità del movimento. Calibrazione, modello e impostazioni di tracking restano invariati."
 }
