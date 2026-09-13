@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.1.4.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.4/TrackVisyon_Setup_1.1.4.exe",
-    "installer_size": 168695085,
-    "installer_sha256": "ca7714c90d217fce5ff5bfefd269af80e4bb4ab6f9f9317c7edc13ae2baf57f3",
-    "release_date": "2026-09-12"
+    "installer_filename": "TrackVisyon_Setup_1.1.5.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.5/TrackVisyon_Setup_1.1.5.exe",
+    "installer_size": 168695581,
+    "installer_sha256": "9e09137da4efc2d571af40007901a4e9bc44845b8192bc7458465745d54f802f",
+    "release_date": "2026-09-13"
   },
-  "changelog": "TrackVisyon 1.1.4: piccoli movimenti della testa più fluidi e continui, mantenendo stabilità e precisione. Migliorata la gestione delle risorse durante il gioco e ridotto il lavoro dell’interfaccia senza cambiarne l’aspetto. Migliorata anche la gestione dei controlli della licenza e delle attese del server, evitando richieste ravvicinate. Profili e calibrazioni esistenti vengono conservati."
+  "changelog": "TrackVisyon 1.1.5: migliorata la continuità del movimento nei giochi più impegnativi e quando il PC è sotto carico. Ottimizzata l’acquisizione della webcam per ridurre le interruzioni, mantenendo stabilità e precisione. Profili e calibrazioni esistenti vengono conservati."
 }
