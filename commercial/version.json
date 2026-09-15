@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.1.5.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.5/TrackVisyon_Setup_1.1.5.exe",
-    "installer_size": 168695581,
-    "installer_sha256": "9e09137da4efc2d571af40007901a4e9bc44845b8192bc7458465745d54f802f",
-    "release_date": "2026-09-13"
+    "installer_filename": "TrackVisyon_Setup_1.1.6.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.6/TrackVisyon_Setup_1.1.6.exe",
+    "installer_size": 168727465,
+    "installer_sha256": "d60e418f05cf4472d570391f0ed0a473e8593f014e56335bdada47e05ffcea4b",
+    "release_date": "2026-09-15"
   },
-  "changelog": "TrackVisyon 1.1.5: migliorata la continuità del movimento nei giochi più impegnativi e quando il PC è sotto carico. Ottimizzata l’acquisizione della webcam per ridurre le interruzioni, mantenendo stabilità e precisione. Profili e calibrazioni esistenti vengono conservati."
+  "changelog": "Corretto l’accesso al programma per tutti gli account con licenza Trial o commerciale valida, inclusi Creator. Risolta la prima attivazione dopo conversione Trial in commerciale. Migliorati i messaggi di accesso. Tracking, profili e calibrazioni conservati."
 }
