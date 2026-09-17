@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.1.6.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.6/TrackVisyon_Setup_1.1.6.exe",
-    "installer_size": 168727465,
-    "installer_sha256": "d60e418f05cf4472d570391f0ed0a473e8593f014e56335bdada47e05ffcea4b",
-    "release_date": "2026-09-15"
+    "installer_filename": "TrackVisyon_Setup_1.1.7.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.7/TrackVisyon_Setup_1.1.7.exe",
+    "installer_size": 168701244,
+    "installer_sha256": "7fc5551bce389199bfb17b249ee82be406d6d2d7f46906747042eceb0b7d71b9",
+    "release_date": "2026-09-17"
   },
-  "changelog": "Corretto l’accesso al programma per tutti gli account con licenza Trial o commerciale valida, inclusi Creator. Risolta la prima attivazione dopo conversione Trial in commerciale. Migliorati i messaggi di accesso. Tracking, profili e calibrazioni conservati."
+  "changelog": "TrackVisyon 1.1.7: migliorata l’apertura e la riapertura della webcam. Corretti i messaggi dell’assistenza: una sessione scaduta non viene più indicata come un problema di Internet. Conservati acquisizione continua, filtri, profili e calibrazioni."
 }
