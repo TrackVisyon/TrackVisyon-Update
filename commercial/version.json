@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.1.7",
+    "version": "1.2.0",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.1.7.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.1.7/TrackVisyon_Setup_1.1.7.exe",
-    "installer_size": 168701244,
-    "installer_sha256": "7fc5551bce389199bfb17b249ee82be406d6d2d7f46906747042eceb0b7d71b9",
-    "release_date": "2026-09-17"
+    "installer_filename": "TrackVisyon_Setup_1.2.0.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.2.0/TrackVisyon_Setup_1.2.0.exe",
+    "installer_size": 168750535,
+    "installer_sha256": "96ba8aa291d2fa58a4ba423b144b1669971eef8e285e2e67d6759f5cb2f436d9",
+    "release_date": "2026-09-19"
   },
-  "changelog": "TrackVisyon 1.1.7: migliorata l’apertura e la riapertura della webcam. Corretti i messaggi dell’assistenza: una sessione scaduta non viene più indicata come un problema di Internet. Conservati acquisizione continua, filtri, profili e calibrazioni."
+  "changelog": "È arrivata TrackVisyon 1.2.0! Più fluidità sotto carico e maggiore continuità nei piccoli movimenti, per una visuale più naturale. Assistenza rinnovata, messaggi più chiari e interfaccia webcam più essenziale. Profili e calibrazioni compatibili restano al loro posto. Continuiamo a migliorare TrackVisyon grazie ai vostri feedback: grazie per far parte di questo percorso!"
 }
