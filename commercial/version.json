@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.2.0.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.2.0/TrackVisyon_Setup_1.2.0.exe",
-    "installer_size": 168750535,
-    "installer_sha256": "96ba8aa291d2fa58a4ba423b144b1669971eef8e285e2e67d6759f5cb2f436d9",
-    "release_date": "2026-09-19"
+    "installer_filename": "TrackVisyon_Setup_1.2.1.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.2.1/TrackVisyon_Setup_1.2.1.exe",
+    "installer_size": 168776736,
+    "installer_sha256": "0b13b6f5fbaf4393c1ff0285303875e927be8a7dc59ab7b2660d54f3a4f04848",
+    "release_date": "2026-09-20"
   },
-  "changelog": "È arrivata TrackVisyon 1.2.0! Più fluidità sotto carico e maggiore continuità nei piccoli movimenti, per una visuale più naturale. Assistenza rinnovata, messaggi più chiari e interfaccia webcam più essenziale. Profili e calibrazioni compatibili restano al loro posto. Continuiamo a migliorare TrackVisyon grazie ai vostri feedback: grazie per far parte di questo percorso!"
+  "changelog": "È arrivata TrackVisyon 1.2.1! Tutti i miglioramenti della 1.2.0: più fluidità sotto carico e maggiore continuità nei piccoli movimenti, per una visuale più naturale. In più, auto-center più morbido e meno invasivo e maggiore stabilità del collegamento ai giochi. Assistenza rinnovata, messaggi più chiari e interfaccia webcam più essenziale. Profili e calibrazioni compatibili restano al loro posto. Continuiamo a migliorare TrackVisyon grazie ai vostri feedback: grazie per far parte di questo percorso!"
 }
