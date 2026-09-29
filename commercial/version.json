@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.2.1.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.2.1/TrackVisyon_Setup_1.2.1.exe",
-    "installer_size": 168776736,
-    "installer_sha256": "0b13b6f5fbaf4393c1ff0285303875e927be8a7dc59ab7b2660d54f3a4f04848",
-    "release_date": "2026-09-20"
+    "installer_filename": "TrackVisyon_Setup_1.2.2.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.2.2/TrackVisyon_Setup_1.2.2.exe",
+    "installer_size": 168820392,
+    "installer_sha256": "24a03b244ef0c505308d7abbc74f75387cb5fa151673029939a00f4ce4500b48",
+    "release_date": "2026-09-29"
   },
-  "changelog": "È arrivata TrackVisyon 1.2.1! Tutti i miglioramenti della 1.2.0: più fluidità sotto carico e maggiore continuità nei piccoli movimenti, per una visuale più naturale. In più, auto-center più morbido e meno invasivo e maggiore stabilità del collegamento ai giochi. Assistenza rinnovata, messaggi più chiari e interfaccia webcam più essenziale. Profili e calibrazioni compatibili restano al loro posto. Continuiamo a migliorare TrackVisyon grazie ai vostri feedback: grazie per far parte di questo percorso!"
+  "changelog": "PRIMA DI AGGIORNARE: il profilo default, anche se personalizzato, verrà reimpostato con le nuove impostazioni della 1.2.2. Appunta i tuoi valori o duplica il profilo prima di installare. Gli altri profili non vengono reimpostati. Il cambio avviene una sola volta: le modifiche successive restano salvate.\n\nTrackVisyon 1.2.2: più controllo, più semplicità. Nuove impostazioni pensate per movimenti più naturali, regolazioni più intuitive, una calibrazione che ti guida passo dopo passo e un'interfaccia più chiara e curata. Aggiunto un avviso per evitare la doppia apertura del programma. Grazie ai vostri feedback, TrackVisyon continua a migliorare."
 }
