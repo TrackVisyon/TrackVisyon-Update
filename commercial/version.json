@@ -1,16 +1,16 @@
 {
-  "schema_version": 2,
-  "product": "trackvisyon",
-  "software": {
-    "version": "1.3.0",
-    "channel": "commercial",
-    "mandatory": false,
-    "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_1.3.0.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.0/TrackVisyon_Setup_1.3.0.exe",
-    "installer_size": 168924496,
-    "installer_sha256": "a1efed26aae51a0159f321763e88f6232334374225d58089fbfbb0f499726830",
-    "release_date": "2026-10-01"
-  },
-  "changelog": "PRIMA DI AGGIORNARE: il profilo default, anche se personalizzato, verrà aggiornato con il nuovo preset. Appunta i tuoi valori o duplica il profilo prima di installare. Gli altri profili non vengono reimpostati. Il cambio avviene una sola volta; le modifiche successive restano salvate. Se hai già ricevuto questo preset, non verrà reimpostato di nuovo.\n\nTrackVisyon 1.3: il tuo tracking, a modo tuo. Il nuovo Mapping Studio Live ti permette di regolare e provare il movimento anche in gioco, senza fermare il tracking. Controlli più intuitivi, gradi di rotazione e regolazioni rapide ti aiutano a trovare il feeling giusto. Conserva le tue prove nel profilo attuale o creane uno personale. Smoothing indipendente per Yaw, Pitch e Roll e gestione dei tempi aggiornata per un movimento più regolare. Include calibrazione guidata più chiara e interfaccia rinnovata."
+    "schema_version":  2,
+    "product":  "trackvisyon",
+    "software":  {
+                     "version":  "1.3.1",
+                     "channel":  "commercial",
+                     "mandatory":  false,
+                     "minimum_supported_version":  "1.0.0",
+                     "installer_filename":  "TrackVisyon_Setup_1.3.1.exe",
+                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.1/TrackVisyon_Setup_1.3.1.exe",
+                     "installer_size":  168925200,
+                     "installer_sha256":  "13c562ef6bcb57b8cdec4d406308bc13098b539137b5378bfc12c845afea190e",
+                     "release_date":  "2026-10-04"
+                 },
+    "changelog": "TrackVisyon 1.3.1: trova più facilmente il movimento giusto per te. Mapping Studio si rinnova con controlli ordinati, direzione degli assi ben visibile e regolazioni rapide più chiare. Le modifiche live sono più regolari mentre provi il tracking anche in gioco. Corretto un problema che poteva spostare bruscamente la visuale durante alcune regolazioni. I profili e le calibrazioni della 1.3.0 restano invariati. Se arrivi da una versione precedente e non hai ancora ricevuto il nuovo preset default, annota i tuoi valori o duplica il profilo prima di aggiornare: resta valida la migrazione una tantum già introdotta."
 }
