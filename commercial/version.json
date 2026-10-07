@@ -1,16 +1,16 @@
 {
-    "schema_version":  2,
-    "product":  "trackvisyon",
-    "software":  {
-                     "version":  "1.3.2",
-                     "channel":  "commercial",
-                     "mandatory":  false,
-                     "minimum_supported_version":  "1.0.0",
-                     "installer_filename":  "TrackVisyon_Setup_1.3.2.exe",
-                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.2/TrackVisyon_Setup_1.3.2.exe",
-                     "installer_size":  168930608,
-                     "installer_sha256":  "aa70f7498a2d4e679913c96763842b8e875948a8d780cf3d8c515ffe8948af44",
-                     "release_date":  "2026-10-04"
-                 },
-    "changelog":  "TrackVisyon 1.3.2 rende Mapping Studio più comodo e sicuro da usare. La rotellina scorre le regolazioni senza cambiare accidentalmente i valori o il profilo selezionato. La disposizione si adatta meglio alle finestre più basse: regolazioni rapide e pulsanti di salvataggio restano interamente visibili. Tracking, profili e calibrazioni della 1.3.1 restano invariati. Per chi non ha ancora ricevuto il nuovo preset default delle versioni precedenti resta valida la migrazione una tantum: prima di aggiornare, duplica il default personalizzato o annotane i valori."
+  "schema_version": 2,
+  "product": "trackvisyon",
+  "software": {
+    "version": "1.3.3",
+    "channel": "commercial",
+    "mandatory": false,
+    "minimum_supported_version": "1.0.0",
+    "installer_filename": "TrackVisyon_Setup_1.3.3.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.3/TrackVisyon_Setup_1.3.3.exe",
+    "installer_size": 169387379,
+    "installer_sha256": "cdaa4dc8d7cbbc351f98b6a0f9bfe6cdabb5ee7ebc54910ebcd25389c4456799",
+    "release_date": "2026-10-07"
+  },
+  "changelog": "TrackVisyon 1.3.3 rende più semplice scegliere la webcam e usarla anche durante le dirette: selezione automatica migliorata, supporto alle camere virtuali e un assistente con indicazioni brevi e pertinenti quando il video non arriva. Metti in pausa e riprendi il tracking con un tasto rapido personalizzabile. Mapping Studio è più ordinato, senza scorrimenti involontari, e permette di annullare l’ultima modifica. La guida aggiornata viene mostrata una volta anche se avevi scelto di nasconderla, poi torna a rispettare la tua preferenza. Profili e calibrazione della 1.3.2 restano conservati. Per chi arriva da versioni molto vecchie resta valida la migrazione default già prevista: duplica il default personalizzato o annotane i valori prima di aggiornare."
 }
