@@ -2,15 +2,15 @@
     "schema_version":  2,
     "product":  "trackvisyon",
     "software":  {
-                     "version":  "1.3.4",
+                     "version":  "1.3.5",
                      "channel":  "commercial",
                      "mandatory":  false,
                      "minimum_supported_version":  "1.0.0",
-                     "installer_filename":  "TrackVisyon_Setup_1.3.4.exe",
-                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.4/TrackVisyon_Setup_1.3.4.exe",
-                     "installer_size":  169417146,
-                     "installer_sha256":  "4689eb3eb71d90085bdda6102a43ff03f91a686bf0e04aae170e9cd5756041b0",
-                     "release_date":  "2026-10-07"
+                     "installer_filename":  "TrackVisyon_Setup_1.3.5.exe",
+                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v1.3.5/TrackVisyon_Setup_1.3.5.exe",
+                     "installer_size":  169433644,
+                     "installer_sha256":  "13d3e43fe48dad0b019d79d2f9592b40a5de04828ca713ba1aaade44ad31635c",
+                     "release_date":  "2026-10-08"
                  },
-    "changelog":  "Aggiornare TrackVisyon torna semplice: la versione 1.3.4 risolve il blocco durante l’installazione dell’aggiornamento. Profili, calibrazione e preferenze vengono conservati. Giochi e altre applicazioni non vengono chiusi automaticamente. Tutte le novità della 1.3.3 restano incluse."
+    "changelog":  "Aggiornare TrackVisyon è più semplice, anche dalla versione 1.3.1. Se un programma blocca l\u0027installazione, ti indichiamo quale: con «Chiudi e continua» puoi proseguire, anche quando OpenTrack è nascosto. Gli altri programmi restano aperti. Avvisi più utili e una grafica coerente con TrackVisyon. Profili, calibrazione e tracking restano invariati."
 }
