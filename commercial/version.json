@@ -1,16 +1,16 @@
 {
-    "schema_version":  2,
-    "product":  "trackvisyon",
-    "software":  {
-                     "version":  "2.0.0",
-                     "channel":  "commercial",
-                     "mandatory":  false,
-                     "minimum_supported_version":  "1.0.0",
-                     "installer_filename":  "TrackVisyon_Setup_2.0.0.exe",
-                     "installer_url":  "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.0/TrackVisyon_Setup_2.0.0.exe",
-                     "installer_size":  114520982,
-                     "installer_sha256":  "7b22099e61a1975ae0015596593af2744e75ec05b566c93a53b2ec27fd3bf4e8",
-                     "release_date":  "2026-10-30"
-                 },
-    "changelog":  "Benvenuto in TrackVisyon 2.0: arriva DirecTrack, il motore proprietario sviluppato su misura per TrackVisyon. Nuova interfaccia, movimenti più continui, Mapping Studio live e gestione migliorata di webcam, mirrorless e camere virtuali. Con la 2.0 è richiesta a tutti una nuova calibrazione prima di avviare il tracking. Profili personalizzati, regolazioni e tasti rapidi restano intatti."
+  "schema_version": 2,
+  "product": "trackvisyon",
+  "software": {
+    "version": "2.0.1",
+    "channel": "commercial",
+    "mandatory": false,
+    "minimum_supported_version": "1.0.0",
+    "installer_filename": "TrackVisyon_Setup_2.0.1.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.1/TrackVisyon_Setup_2.0.1.exe",
+    "installer_size": 114517221,
+    "installer_sha256": "d290833d772fc04dabc561ee72581e96ff9dccdf0cad899810d4393b9e68473d",
+    "release_date": "2026-10-31"
+  },
+  "changelog": "Ripristinato il collegamento sicuro al servizio licenze: accesso all'account e verifica della licenza nuovamente disponibili sui PC interessati. Profili e regolazioni restano invariati."
 }
