@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_2.0.1.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.1/TrackVisyon_Setup_2.0.1.exe",
-    "installer_size": 114517221,
-    "installer_sha256": "d290833d772fc04dabc561ee72581e96ff9dccdf0cad899810d4393b9e68473d",
-    "release_date": "2026-10-31"
+    "installer_filename": "TrackVisyon_Setup_2.0.2.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.2/TrackVisyon_Setup_2.0.2.exe",
+    "installer_size": 114481633,
+    "installer_sha256": "f73f48114bfe611d34bc0d28295e35d3441e9e4be4da787f0c523ac4f43a21aa",
+    "release_date": "2026-11-02"
   },
-  "changelog": "Ripristinato il collegamento sicuro al servizio licenze: accesso all'account e verifica della licenza nuovamente disponibili sui PC interessati. Profili e regolazioni restano invariati."
+  "changelog": "Migliorata la connessione di DirecTrack ai giochi e corretta la perdita di fluidità in secondo piano. Grafici più reattivi, apertura dal logo più continua e selezione dei profili più affidabile. Profili e regolazioni personali conservati."
 }
