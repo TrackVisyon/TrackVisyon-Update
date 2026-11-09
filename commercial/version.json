@@ -2,15 +2,15 @@
   "schema_version": 2,
   "product": "trackvisyon",
   "software": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "channel": "commercial",
     "mandatory": false,
     "minimum_supported_version": "1.0.0",
-    "installer_filename": "TrackVisyon_Setup_2.0.2.exe",
-    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.2/TrackVisyon_Setup_2.0.2.exe",
-    "installer_size": 114481633,
-    "installer_sha256": "f73f48114bfe611d34bc0d28295e35d3441e9e4be4da787f0c523ac4f43a21aa",
-    "release_date": "2026-11-02"
+    "installer_filename": "TrackVisyon_Setup_2.0.3.exe",
+    "installer_url": "https://github.com/TrackVisyon/TrackVisyon-Update/releases/download/v2.0.3/TrackVisyon_Setup_2.0.3.exe",
+    "installer_size": 114471448,
+    "installer_sha256": "d2914a5eeb657a6c8973c5433983f399bcbc4327d22cbdeb9a15b3167d8f42a5",
+    "release_date": "2026-11-08"
   },
-  "changelog": "Migliorata la connessione di DirecTrack ai giochi e corretta la perdita di fluidità in secondo piano. Grafici più reattivi, apertura dal logo più continua e selezione dei profili più affidabile. Profili e regolazioni personali conservati."
+  "changelog": "Assistenza più semplice e affidabile: invia la richiesta con un solo clic e scegli se allegare il log. Migliorata la gestione degli allegati e dei messaggi di invio, con diagnostica tecnica rispettosa della privacy. Profili e regolazioni personali conservati."
 }
